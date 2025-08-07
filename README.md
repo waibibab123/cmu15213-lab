@@ -3,7 +3,7 @@
 目前更新的情况为：
 | lab | 代码是否上传 | 实验记录是否上传 |
 | --- | --- | --- |
-| datalab | √ | × |
+| datalab | √ | √ |
 | bomblab | ×| × |
 | attacklab | ×| × |
 | archlab | ×| × |
